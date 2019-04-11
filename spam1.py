@@ -1,4 +1,4 @@
-from fbchat import Client
+from fbchat import Client #install with pip install fbchat
 from fbchat.models import *
 
 email='your_fb_email'
